@@ -1,0 +1,32 @@
+[
+  {
+    "img": "https://testerosi.s3.us-east-2.amazonaws.com/foryouapp/boocard.jpg",
+    "appStoreLink": "",
+    "playStoreLink": "https://play.google.com/store/apps/details?id=osi.crew.boocard&hl=tr&gl=US",
+    "appName": "boocard"
+  },
+  {
+    "img": "https://testerosi.s3.us-east-2.amazonaws.com/foryouapp/gartransfer.jpg",
+    "appStoreLink": "https://apps.apple.com/us/app/gartransfer/id1125089942",
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.app.gartransfer&hl=tr&gl=US",
+    "appName": "gartransfer"
+  },
+  {
+    "img": "https://testerosi.s3.us-east-2.amazonaws.com/foryouapp/noter.jpg",
+    "appStoreLink": "",
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.drsyldz.nobetciNoter",
+    "appName": "noter"
+  },
+  {
+    "img": "https://testerosi.s3.us-east-2.amazonaws.com/foryouapp/shakeme.jpg",
+    "appStoreLink": "https://apps.apple.com/us/app/shake-me/id1465692901",
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.osireklamajansi.shakeme&hl=tr&gl=US",
+    "appName": "shakeme"
+  },
+  {
+    "img": "https://testerosi.s3.us-east-2.amazonaws.com/foryouapp/spica.jpg",
+    "appStoreLink": "",
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.hulya.bilgiyarismasi",
+    "appName": "spica"
+  }
+]
